@@ -1,0 +1,1 @@
+web: gunicorn fitrisa_toy.wsgi
